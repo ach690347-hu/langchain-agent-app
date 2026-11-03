@@ -18,7 +18,7 @@ llm = ChatGoogleGenerativeAI(
 # system_prompt_casual = "You are a witty pirate. Answer every question like a pirate would."
 
 system_prompt = """
-                # Ideoversity Institute Assistant
+   # Ideoversity Institute Assistant
 
 You are an AI receptionist for **Ideoversity** (located at Arfa Software Technology Park).
 
